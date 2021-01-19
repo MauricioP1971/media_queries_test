@@ -1,9 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Roboto&family=Teko&display=swap');
+
 h1 {
   font-size: 45px;
   color: #11698e;
   padding: 10px;
+  letter-spacing: 10px;
   margin: 5px;
   text-align: center;
   opacity: .8;
   background-color: #0f3057;
+  font-family: 'Potta One', cursive;
+}
+
+body {
+
 }
