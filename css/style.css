@@ -1,7 +1,7 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Roboto&family=Teko&display=swap');*/
-/*@import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css')*/
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Roboto&family=Teko&display=swap');
+/*/*@import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css')*/
 
-/*h1 {
+h1 {
   font-size: 45px;
   color: #11698e;
   padding: 10px;
@@ -13,8 +13,7 @@
   font-family: 'Potta One', cursive;
 }
 
-body {
-}*/
+
 
 
 * {
