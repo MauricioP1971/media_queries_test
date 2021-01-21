@@ -1,17 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Roboto&family=Teko&display=swap');
-/*/*@import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css')*/
+/*@import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css')*/
 
-h1 {
-  font-size: 45px;
-  color: #11698e;
-  padding: 10px;
-  letter-spacing: 10px;
-  margin: 5px;
-  text-align: center;
-  opacity: .8;
-  background-color: #0f3057;
-  font-family: 'Potta One', cursive;
-}
+@import url('components/name.css');
 
 
 
@@ -132,6 +122,6 @@ label:after {
   left: 100%;
   border-top-right-radius: 50%;
   border-bottom-right-radius: 50%;
-}*/
+}
 
 
