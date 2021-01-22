@@ -1,7 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: teal;
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Roboto&family=Teko&display=swap');
-/*@import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css')*/
+@import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css')
 
 @import url('components/name.css');
+
 
 
 
